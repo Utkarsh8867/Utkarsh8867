@@ -87,3 +87,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh8867&show_icons=true&locale=en" alt="utkarsh8867" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh8867&" alt="utkarsh8867" /></p>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
