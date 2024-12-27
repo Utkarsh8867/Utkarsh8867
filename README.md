@@ -80,12 +80,16 @@
 
 
 <!-- <p><a href="https://www.buymeacoffee.com/Utkarsh8867"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Utkarsh8867" /></a></p><br><br> -->
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh8867&show_icons=true&locale=en&layout=compact" alt="utkarsh8867" /></p>
+</div>
 
-
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh8867&show_icons=true&locale=en" alt="utkarsh8867" /></p>
-
+</div>
+  
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh8867&" alt="utkarsh8867" /></p>
+</div>
 
 ![snake gif](https://github.com/Utkarsh8867/Utkarsh8867/blob/output/github-snake-dark.svg)
